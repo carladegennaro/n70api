@@ -70,7 +70,6 @@
 			"newspaper"
 		]
 	},
-
 	{
 		"titolo" : "Eyes on earth",
 		"descrizione" : "Attraverso la navigazione tra cinque satelliti chiave, scoprirai come la conquista dello spazio sia diventata lo strumento fondamentale per comprendere i cambiamenti globali. Inizia il tuo viaggio per vedere la Terra come non l'hai mai vista prima.",
@@ -88,7 +87,6 @@
 			"earth"
 		]
 	},
-
 	{
 		"titolo" : "Lunar Archive Explorer",
 		"descrizione" : "Il Lunar Archive Explorer è una piattaforma digitale che permette di navigare e consultare i dati scientifici e le immagini ad alta risoluzione raccolti durante le missioni sulla Luna.",
@@ -105,5 +103,5 @@
 			"apollo",
 			"missions"
 		]
-	},
+	}
 ]
