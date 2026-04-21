@@ -55,7 +55,7 @@
 	},
 		{
 		"titolo" : "MoonPrint",
-		"descrizione" : "Il progetto non si limita a essere un semplice gioco. Una volta superate tutte le prove, l'esperienza culmina con un viaggio visivo verso la Luna e si trasforma in un vero e proprio archivio storico. I giocatori vengono ricompensati con un'interfaccia che permette di esplorare i video originali e i filmati di repertorio della NASA per ciascuna delle strutture affrontate (dall'esperimento originale di David Scott sulla Luna, fino alle riprese reali della Centrifuga e della piscina N.B.L.).",
+		"descrizione" : "Questo archivio interattivo esplora come i media globali raccontarono lo sbarco sulla Luna dell’Apollo 11 nel luglio 1969. Attraverso una visualizzazione dinamica, il sito mette a confronto le narrazioni giornalistiche di diversi paesi, evidenziando differenze di tono, linguaggio e prospettiva tra le pubblicazioni internazionali. Il progetto illumina il contesto geopolitico della Guerra Fredda, contrapponendo l’entusiasmo trionfale dei media occidentali a una copertura più sobria e tecnica nei paesi del blocco sovietico. È stato realizzato per celebrare il 70° anniversario della NASA.",
 		"immagine" : "moonprint.jpg",
 		"url" : "https://sofiaribeiromarques.github.io/NASA/progetto/index.html",
 		"data" : {
